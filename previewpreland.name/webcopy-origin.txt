@@ -1,0 +1,404 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\previewpreland.name\ajax\libs\jquery\1.11.1\jquery.min-1.js
+Content Type: text/javascript
+
+Uri: https://amazing-cdn.com/avatars/ru/w15.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\ru\w15-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/m2.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\m2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w1.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w10.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w11.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w12.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w13.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w14.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w14-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w15.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w15-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w16.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w16-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w17.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w17-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w18.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w19.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w19-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w2.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w20.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w20-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w25.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w25-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w26.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w26-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w27.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w27-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w28.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w28-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w29.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w29-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w3.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w30.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w30-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w31.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w31-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w33.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w33-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w35.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w35-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w36.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w36-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w37.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w37-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w38.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w38-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w39.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w39-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w4.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w5.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w6.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w7.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w8.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/avatars/tr/w9.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\avatars\tr\w9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amazing-cdn.com/modal/modal.min.js?PageSpeed=off
+File Name: C:\Downloaded Web Sites\previewpreland.name\modal\modal.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnkma.biz/custom.min.js
+File Name: C:\Downloaded Web Sites\previewpreland.name\custom.min-1.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\previewpreland.name\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\previewpreland.name\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\previewpreland.name\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w--1.ttf
+Content Type: font/ttf
+
+Uri: https://nothingimportant.pro/watch.js?1
+File Name: C:\Downloaded Web Sites\previewpreland.name\watch.js
+Content Type: application/javascript
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/?ufl=22896
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\index-1.htm
+Content Type: text/html
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/assets/css/A.custom.css.pagespeed.cf.y8WtEEc6JF.css
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\assets\css\A.custom.css.pagespeed.cf.y8WtEEc6JF-1.css
+Content Type: text/css
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/assets/css/A.style.min.css.pagespeed.cf.r7NhEBl0ku.css
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\assets\css\A.style.min.css.pagespeed.cf.r7NhEBl0ku-1.css
+Content Type: text/css
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/css/A.addComment.css.pagespeed.cf.pFCR1ytCkg.css
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\css\A.addComment.css.pagespeed.cf.pFCR1ytCkg-1.css
+Content Type: text/css
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/css/A.allComponents1.min.css.pagespeed.cf.Hj0ZaNMCKZ.css
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\css\A.allComponents1.min.css.pagespeed.cf.Hj0ZaNMCKZ-1.css
+Content Type: text/css
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/css/A.commstyle.css.pagespeed.cf.FfK-0npq02.css
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\css\A.commstyle.css.pagespeed.cf.FfK-0npq02-1.css
+Content Type: text/css
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/css/A.style.css.pagespeed.cf.QBO_eo3JnM.css
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\css\A.style.css.pagespeed.cf.QBO_eo3JnM-1.css
+Content Type: text/css
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/coment-11.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\coment-11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/coment-15.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\coment-15-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/coment-5.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\coment-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/coment-6.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\coment-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/coment-7.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\coment-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/coment-9.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\coment-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-1.jpg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-14.jpg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-14-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-15.webp?v1
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-15-1.webp
+Content Type: image/webp
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-16.jpg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-16-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-17.jpeg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-17-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-18.jpg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-19.jpg?v1
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-19-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-2.png?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-2-1.png
+Content Type: image/png
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-20.jpg?v1
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-20-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-22.jpg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-22-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-3.jpg?v4
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-4.jpg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-5.jpg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-6.jpg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-8.jpg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/hero-9.jpg?v3
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\hero-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/i-heart.webp
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\i-heart-1.webp
+Content Type: image/webp
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/logo.jpg?v2
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/msg1.gif
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\msg1-1.gif
+Content Type: image/gif
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/prod.png
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\prod.png
+Content Type: image/png
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xa0.jpg.pagespeed.ic.YEzLVhW7P1.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xa0.jpg.pagespeed.ic.YEzLVhW7P1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xcoment-1010.jpg.pagespeed.ic.7cbpExsBgi.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xcoment-1010.jpg.pagespeed.ic.7cbpExsBgi-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xcoment-55.jpg.pagespeed.ic.xyvErnhfTT.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xcoment-55.jpg.pagespeed.ic.xyvErnhfTT-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xcoment-66.jpg.pagespeed.ic.-yZsUJE8-7.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xcoment-66.jpg.pagespeed.ic.-yZsUJE8-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xcoment-77.jpg.pagespeed.ic.xF6sGNe2en.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xcoment-77.jpg.pagespeed.ic.xF6sGNe2en-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xcoment-88.jpg.pagespeed.ic.CyYeboBUsQ.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xcoment-88.jpg.pagespeed.ic.CyYeboBUsQ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xcoment-99.jpg.pagespeed.ic.O74QpgPkgW.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xcoment-99.jpg.pagespeed.ic.O74QpgPkgW-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xhero-12.jpg,qv3.pagespeed.ic.RQlGqrbibd.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xhero-12.jpg,qv3.pagespeed.ic.RQlGqrbibd-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xhero-21.jpg,qv4.pagespeed.ic.bCV0BtzUJc.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xhero-21.jpg,qv4.pagespeed.ic.bCV0BtzUJc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xm1.jpg,qv3.pagespeed.ic.y13ifqbaDW.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xm1.jpg,qv3.pagespeed.ic.y13ifqbaDW-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xm3.jpg,qv3.pagespeed.ic.XxueMhg3X-.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xm3.jpg,qv3.pagespeed.ic.XxueMhg3X--1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xm4.jpg,qv3.pagespeed.ic.jyHxQkg1un.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xm4.jpg,qv3.pagespeed.ic.jyHxQkg1un-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xnn1.jpg.pagespeed.ic.RrbH1TVMga.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xnn1.jpg.pagespeed.ic.RrbH1TVMga-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xnn2.jpg.pagespeed.ic.iJGstl4vfN.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xnn2.jpg.pagespeed.ic.iJGstl4vfN-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xnn3.jpg.pagespeed.ic.EUL5t6L_Kj.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xnn3.jpg.pagespeed.ic.EUL5t6L_Kj-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xnn4.jpg.pagespeed.ic.0AMkIn9F6b.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xnn4.jpg.pagespeed.ic.0AMkIn9F6b-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xr1.jpg.pagespeed.ic.MRfShm-GYZ.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xr1.jpg.pagespeed.ic.MRfShm-GYZ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xrec1.jpg.pagespeed.ic.JLjPhOSeog.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xrec1.jpg.pagespeed.ic.JLjPhOSeog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/img/xrec2.jpg.pagespeed.ic.kYBU78fywk.jpg
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\img\xrec2.jpg.pagespeed.ic.kYBU78fywk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/js/createcomment.js+addCommnetfb.js.pagespeed.jc.s8LZlXWczC.js
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\js\createcomment.js addCommnetfb.js.pagespeed.jc.s8LZlXWczC-1.js
+Content Type: application/javascript
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/js/script.min.js
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\js\script.min-1.js
+Content Type: application/javascript
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/quiz/css/A.quiz.css,qv4.1.pagespeed.cf.zDT4PnIKLE.css
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\quiz\css\A.quiz.css,qv4.1.pagespeed.cf.zDT4PnIKLE-1.css
+Content Type: text/css
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/quiz/img/quiz_header-bg1.png
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\quiz\img\quiz_header-bg1-1.png
+Content Type: image/png
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/quiz/img/xchecked1.png.pagespeed.ic.UQNvnotqwm.png
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\quiz\img\xchecked1.png.pagespeed.ic.UQNvnotqwm-1.png
+Content Type: image/png
+
+Uri: https://previewpreland.name/goodbye-carbs-ioa2-lp/quiz/js/quiz.js
+File Name: C:\Downloaded Web Sites\previewpreland.name\goodbye-carbs-ioa2-lp\quiz\js\quiz-1.js
+Content Type: application/javascript
+
+Uri: https://previewpreland.name/shared_files/js/custom-functions.min.js,q19.pagespeed.jm.qxcRKwe_ua.js
+File Name: C:\Downloaded Web Sites\previewpreland.name\shared_files\js\custom-functions.min.js,q19.pagespeed.jm.qxcRKwe_ua-1.js
+Content Type: application/javascript
+
